@@ -6,4 +6,4 @@ WORKDIR /usr/app/
 
 EXPOSE 8080
 
-ENTRYPOINT ["java", "-jar", "demo-app.jar"]
+ENTRYPOINT ["java", "-jar", "SpringSecurity-0.0.1-SNAPSHOT.jar"]
